@@ -1,0 +1,111 @@
+open
+verb
+mo ra
+path
+noun
+duong dan
+window
+noun
+cua so
+nice
+adj
+tuyet
+fast
+adj
+nhanh
+glass
+noun
+thuy tinh
+pen
+noun
+but
+play
+verb
+choi
+mouse
+noun
+con chuot
+house
+noun
+nha cua
+rainy
+adj
+troi co mua
+good
+adj
+tot
+bad
+adj
+te hai
+garden
+noun
+vuon
+sun
+noun
+mat troi
+fan
+noun
+may quat
+run
+verb
+chay
+above
+prep
+ben tren
+search
+verb
+tim kiem
+bottle
+noun
+chai lo
+on
+prep
+ben tren
+clean
+verb
+don dep
+clearly
+adv
+mot cach ro rang
+dog
+noun
+con cho
+cut
+verb
+cat
+code
+noun
+ma lap trinh
+green
+noun
+mau xanh
+bike
+noun
+xe dap
+desk
+noun
+cai ban
+laptop
+noun
+may tinh xach tay
+put
+verb
+dat, de len
+smile
+verb
+cuoi
+dark
+adj
+toi tam
+wet
+adj
+am uot
+help
+verb
+giup do
+in
+prep
+ben trong
+clock
+noun
+dong ho
