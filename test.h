@@ -201,14 +201,23 @@ void deleted(tu **a, char word[])
 {
 	int i, j;
 	i = hash(word);
-	if (a[i] == NULL)
+	if (fastfind(a[i], word)==0)
 		printf("\nThis word is not in the dictionary!");
 	else
 	{
-		a[i] = NULL;
+		tu* pointer=a[i];
+		if(strcmp(pointer->data,word)==0) a[i]=pointer->next; //neu day la tu dau danh sach
+		while(pointer->next->next!=NULL){
+			if(strcmp(pointer->next->data,word)==0){
+				pointer->next=pointer->next->next;
+				break;
+			}
+			pointer=pointer->next;
+		}//neu day la tu giua danh sach
+		if(strcmp(pointer->next->data,word)==0) pointer->next=NULL;
 		printf("\nSuccessfully deleted!");
 	}
-}
+}//chua test nhung co ve dung build duoc r nhung chay duoc k thi kb =))
 void edit(tu *a, char word[256])
 {
 	int edit_what;
