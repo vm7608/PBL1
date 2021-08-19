@@ -1,114 +1,114 @@
-play
-verb
-choi
-help
-verb
-giup do
-cut
-verb
-cat
-put
-verb
-dat, de len
-on
-prep
-ben tren
-in
-prep
-ben trong
-window
-noun
-cua so
-house
-noun
-nha cua
-clock
-noun
-dong ho
-bottle
-noun
-chai lo
-pen
-noun
-but
-laptop
-noun
-may tinh xach tay
-clean
-verb
-don dep
-nice
-adj
-tuyet
-good
-adj
-tot
-bad
-adj
-te hai
-green
-noun
-mau xanh
-mouse
-noun
-con chuot
-dog
-noun
-con cho
-above
-prep
-ben tren
-fast
-adj
-nhanh
-clearly
-adv
-mot cach ro rang
-dark
-adj
-toi tam
-rainy
-adj
-troi co mua
 open
 verb
 mo ra
-path
-noun
-duong dan
+nice
+adj
+tuyet
 glass
 noun
 thuy tinh
-run
-verb
-chay
-desk
+pen
 noun
-cai ban
-wet
+but
+play
+verb
+choi
+house
+noun
+nha cua
+bad
 adj
-am uot
-smile
-verb
-cuoi
-search
-verb
-tim kiem
-bike
-noun
-xe dap
-garden
-noun
-vuon
+te hai
 fan
 noun
 may quat
+above
+prep
+ben tren
+bottle
+noun
+chai lo
+clean
+verb
+don dep
+cut
+verb
+cat
+clear
+adj
+ro rang
+green
+noun
+mau xanh
+desk
+noun
+cai ban
+laptop
+noun
+may tinh xach tay
+smile
+verb
+cuoi
+help
+verb
+giup do
+in
+prep
+ben trong
+path
+noun
+duong dan
+window
+noun
+cua so
+fast
+adj
+nhanh
+mouse
+noun
+con chuot
+rainy
+adj
+troi co mua
+good
+adj
+tot
+garden
+noun
+vuon
 sun
 noun
 mat troi
+run
+verb
+chay
+search
+verb
+tim kiem
+on
+prep
+ben tren
+clearly
+adv
+mot cach ro rang
+dog
+noun
+con cho
 code
 noun
 ma lap trinh
-a
-a
-a
+bike
+noun
+xe dap
+put
+verb
+dat, de len
+dark
+adj
+toi tam
+wet
+adj
+am uot
+clock
+noun
+dong ho
